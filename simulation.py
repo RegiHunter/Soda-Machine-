@@ -1,4 +1,6 @@
-
+from soda_machine import SodaMachine
+from customer import Customer
+import user_interface
 
 class Simulation:
     def __init__(self):
